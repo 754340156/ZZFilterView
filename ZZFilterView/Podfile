@@ -1,0 +1,17 @@
+platform:ios,'8.0'
+
+use_frameworks!
+
+target "ZZFilterView" do
+
+pod 'AFNetworking'
+pod 'SDWebImage'
+pod 'IQKeyboardManager'
+pod 'MJExtension'
+pod 'MJRefresh'
+pod 'BlocksKit'
+pod 'KVOController'
+pod 'Masonry'
+pod 'UITableView+FDTemplateLayoutCell'
+end
+
